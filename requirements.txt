@@ -1,0 +1,7 @@
+torch==2.2.2
+torch_tensorrt==2.2.0
+torchaudio==2.2.2
+torchvision==0.17.2
+tensorrt
+torch-tensorrt
+numpy
